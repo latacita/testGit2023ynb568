@@ -23,4 +23,8 @@
 (19) add bitacora.txt + commit -m "Paso 19"
 (20) ckeckout develop
 (21) branch feature/Ticket222
-(22) checkout feature/Ticket220     fusion por fast-forward
+(22) checkout feature/Ticket220             fusion por fast-forward
+(24) add bitacora.txt + commit -m "Paso 24"
+(25) checkout develop
+(26) merge feature/Ticket220 + commit
+(27) merge feature/Ticket221 + commit       surgen conflictos en bitacora.txt
