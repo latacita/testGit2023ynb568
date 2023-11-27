@@ -8,5 +8,14 @@
 ====== ============================ ================================
 (01) clone
 (02) editar bitacora.txt
-(03) add bitacora.txt + commit "Paso 03"
+(03) add bitacora.txt + commit -m "Paso 03"
 (04) push origin master 
+
+
+
+(10) add bitacora.txt + commit -m "Paso 10"
+(11) checkout develop
+(12) ckeckout -b feature/Ticket221
+
+(16) add bitacora.txt + commit -m "Paso 16"
+(17) checkout feature/Ticket221
