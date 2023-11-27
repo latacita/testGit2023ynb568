@@ -6,3 +6,7 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+(01) clone
+(02) editar bitacora.txt
+(03) add bitacora.txt + commit "Paso 03"
+(04) push origin master 
