@@ -13,3 +13,7 @@
 (06) add bitacora.txt + commit "Paso 06"
 (07) branch develop
 (08) checkout -b feature/Ticket220 
+
+
+
+(14) stash + checkout feature/Ticket220
