@@ -13,12 +13,12 @@
 (06) add bitacora.txt + commit -m "Paso 06"
 (07) branch develop
 (08) checkout -b feature/Ticket220 
-
-
-
+(10) add bitacora.txt + commit -m "Paso 10"
+(11) checkout develop
+(12) ckeckout -b feature/Ticket221
 (14) stash + checkout feature/Ticket220
-
-
+(16) add bitacora.txt + commit -m "Paso 16"
+(17) checkout feature/Ticket221
 (18) stash apply + editar bitacora.txt 
 (19) add bitacora.txt + commit -m "Paso 19"
 (20) ckeckout develop
