@@ -9,4 +9,7 @@
 (01) clone
 (02) editar bitacora.txt
 (03) add bitacora.txt + commit "Paso 03"
-(04) push origin master 
+(04) push origin master
+(06) add bitacora.txt + commit "Paso 06"
+(07) branch develop
+(08) checkout -b feature/Ticket220 
