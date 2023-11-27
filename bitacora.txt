@@ -33,3 +33,8 @@
 (31) push origin develop                    Se selecciona la opcion de no pushear tags
 (32) checkout feature/Ticket222
 (33) merge develop
+(35) add bitacora.txt + commit -m "Paso 35"
+(36) checkout develop
+(37) merge feature/Ticket222 + commit 
+(38) checkout master
+(39) merge develop + commit 
