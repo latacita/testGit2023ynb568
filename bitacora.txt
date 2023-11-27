@@ -28,3 +28,8 @@
 (25) checkout develop
 (26) merge feature/Ticket220 + commit
 (27) merge feature/Ticket221 + commit       surgen conflictos en bitacora.txt
+(29) add bitacora.txt + commit -m "Paso 29"
+(30) tag Step29
+(31) push origin develop                    Se selecciona la opcion de no pushear tags
+(32) checkout feature/Ticket222
+(33) merge develop
