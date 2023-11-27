@@ -8,5 +8,28 @@
 ====== ============================ ================================
 (01) clone
 (02) editar bitacora.txt
-(03) add bitacora.txt + commit "Paso 03"
-(04) push origin master 
+(03) add bitacora.txt + commit -m "Paso 03"
+(04) push origin master
+(06) add bitacora.txt + commit -m "Paso 06"
+(07) branch develop
+(08) checkout -b feature/Ticket220 
+(10) add bitacora.txt + commit -m "Paso 10"
+(11) checkout develop
+(12) ckeckout -b feature/Ticket221
+(14) stash + checkout feature/Ticket220
+(16) add bitacora.txt + commit -m "Paso 16"
+(17) checkout feature/Ticket221
+(18) stash apply + editar bitacora.txt 
+(19) add bitacora.txt + commit -m "Paso 19"
+(20) ckeckout develop
+(21) branch feature/Ticket222
+(22) checkout feature/Ticket220             fusion por fast-forward
+(24) add bitacora.txt + commit -m "Paso 24"
+(25) checkout develop
+(26) merge feature/Ticket220 + commit
+(27) merge feature/Ticket221 + commit       surgen conflictos en bitacora.txt
+(29) add bitacora.txt + commit -m "Paso 29"
+(30) tag Step29
+(31) push origin develop                    Se selecciona la opcion de no pushear tags
+(32) checkout feature/Ticket222
+(33) merge develop
